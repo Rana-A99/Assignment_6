@@ -1,5 +1,5 @@
 def main():
-    print("Hello CI/CD")
+    print("Hello CI/CD run train")
 
 
 if __name__ == "__main__":
